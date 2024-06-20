@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! My name is Amy, and I'm currently a prospective Software Engineer with experience in HTML, CSS, JavaScript, React.js and Java.
+
+I create beautiful bespoke interactive applications that provide value to the user. Allowing me to be creative and have fun whilst developing meaningful products. 
+
+If you would like to find out more about me, you can go to my [personal website](https://myaleung.co.uk/) or visit my [LinkedIn profile](https://www.linkedin.com/in/myaleung/). Thanks for stopping by!
